@@ -32,6 +32,8 @@ p)  # print all outputs
     grimblast copysave screen $temp_screenshot && swappy -f $temp_screenshot ;;
 s)  # drag to manually snip an area / click on a window to print it
     grimblast copysave area $temp_screenshot && swappy -f $temp_screenshot ;;
+sp) # drag to manually snip an area / click on a window to print and pin it
+    grimblast save area - | feh --scale-down --zoom fill - ;;
 sf)  # frozen screen, drag to manually snip an area / click on a window to print it
     grimblast --freeze copysave area $temp_screenshot && swappy -f $temp_screenshot ;;
 m)  # print focused monitor
