@@ -77,7 +77,7 @@ fastfetch                                              # system information fetc
 pokemon-colorscripts-git|zsh                           # display pokemon sprites
 
 wlsunset
-swayidle
+hypridle-git
 feh
 
 # --------------------------------------------------- // HyDE
