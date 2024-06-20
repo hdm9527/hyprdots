@@ -5,7 +5,6 @@
 # gestures                                             # gui for libinput-gestures
 
 # --------------------------------------------------- // Dependencies
-xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
 # emote                                                # emoji picker gtk3
 
 # --------------------------------------------------- // Gaming
