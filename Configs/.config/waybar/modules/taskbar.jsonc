@@ -9,7 +9,8 @@
 		"on-click-middle": "close",
 		"ignore-list": [],
 		"app_ids-mapping": {
-			"firefoxdeveloperedition": "firefox-developer-edition"
+			"firefoxdeveloperedition": "firefox-developer-edition",
+      "jetbrains-datagrip": "DataGrip"
 		}
 	},
 
